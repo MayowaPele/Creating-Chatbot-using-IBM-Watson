@@ -1,0 +1,2 @@
+# Run in terminal
+python3 Chatbot code.py 
